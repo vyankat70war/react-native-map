@@ -3,7 +3,7 @@ Map using react native
 
 1. Steps to initialize map
 
-cd <Map directory>
+cd to project directory
 
 2. Install react-native-mapbox-gl
 
